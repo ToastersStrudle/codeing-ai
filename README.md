@@ -1,0 +1,2 @@
+# codeing-ai
+trying python
